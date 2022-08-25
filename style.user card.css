@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.container {
+    width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+}
+#profile {
+    background-color: rgb(129, 129, 250);
+    border: 1px solid rgb(88, 86, 86);
+}
+#profile .header{
+    width: inherit;
+    height: 70px;
+}
+.body {
+    background-color: white;
+    padding: 20px;
+}
+
+.img1 {
+    height: 50px;
+    width: 50px;
+    position: fixed;
+    top: 60px;
+}
+.seattle {
+    position: relative;
+    left: 10px;
+}
+.img2 {
+    float: left;
+    position:relative;
+    top:7px;
+    height: 14px;
+}
+img {
+    width: 10px;
+}
+    
